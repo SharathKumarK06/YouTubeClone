@@ -1,0 +1,53 @@
+# Home page
+    Navbar
+        3 section
+            section 1 (left):
+                hamburger menu(3 horizontal bars like equal to symbol)
+                youtube logo(link to home page)
+            section 2 (middle):
+                search box
+                search button
+                voice search
+            section 3 (right):
+                kebab menu(3 vertical dots menu)
+                    Theme (Dark and White)
+                    Language
+                    Settings
+                    Help
+                    Feedback
+                sign in button with empty avatar icon
+    When click hamburger menu, opens navigation menu
+    Navigation menu
+        Home
+        Shorts
+            Navbar, Navigation Menu
+        Subscriptions
+
+        You
+        History
+
+        Sign in button
+
+        Explore(title)
+        Music
+        Live
+
+        Settings
+        Report History
+        Help
+        Send Feedback
+
+        About, Contact us
+        ...
+    Videos List - as cards
+
+# Shorts
+    Navbar
+    Navigation Menu
+    Vertical video
+    Like
+    dislikes
+    comments
+    share
+    kebab menu(3 vertical dots menu)
+    Up and down arrow
